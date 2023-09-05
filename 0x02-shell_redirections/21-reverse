@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Chikodili" | rev
+rev <<< "Chikodili"
