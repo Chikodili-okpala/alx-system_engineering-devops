@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "My name is Okpala Chikodili Amarachukwu. I am a graduate from the University of Nigeria. I am currently a Software Engineering student at the prestigious ALX Africa. Im not a Software Engineer yet, Ill become one soon. Allow me to know how I can be of assistance." | tr Ac Ze
+tr 'Ac' 'Ze'
